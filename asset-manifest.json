@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pedir-viaje/static/css/main.77e336bb.css",
-    "main.js": "/pedir-viaje/static/js/main.49e7fbe2.js",
+    "main.css": "/pedir-viaje/static/css/main.ba5a58ce.css",
+    "main.js": "/pedir-viaje/static/js/main.f73b162c.js",
     "static/js/787.79c39c6a.chunk.js": "/pedir-viaje/static/js/787.79c39c6a.chunk.js",
     "index.html": "/pedir-viaje/index.html",
-    "main.77e336bb.css.map": "/pedir-viaje/static/css/main.77e336bb.css.map",
-    "main.49e7fbe2.js.map": "/pedir-viaje/static/js/main.49e7fbe2.js.map",
+    "main.ba5a58ce.css.map": "/pedir-viaje/static/css/main.ba5a58ce.css.map",
+    "main.f73b162c.js.map": "/pedir-viaje/static/js/main.f73b162c.js.map",
     "787.79c39c6a.chunk.js.map": "/pedir-viaje/static/js/787.79c39c6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77e336bb.css",
-    "static/js/main.49e7fbe2.js"
+    "static/css/main.ba5a58ce.css",
+    "static/js/main.f73b162c.js"
   ]
 }
